@@ -76,3 +76,4 @@ http://iotcampus.net/bmkg/?menu=gempa
 * [Data Cuaca](https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=07&NamaProv=DKI%20Jakarta) - Data cuaca DKI Jakarta hari ini
 
 ## Authors
+Ogie Rizki
